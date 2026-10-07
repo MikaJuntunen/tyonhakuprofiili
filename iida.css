@@ -78,7 +78,7 @@ body {
 
 .profile-image {
   background-color: #f2d5de;
-  background-image: url("https://images.unsplash.com/photo-1511044568932-338cba0ad803?auto=format&fit=crop&w=900&q=80");
+  background-image: url(pojat.jpg) ;
   background-size: cover;
   background-position: center;
   width: 100%;
